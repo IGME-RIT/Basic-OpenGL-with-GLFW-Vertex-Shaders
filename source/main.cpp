@@ -60,7 +60,7 @@ int main(int argc, char **argv)
 	glfwInit();
 
 	// Initialize window
-	GLFWwindow* window = glfwCreateWindow(800, 600, "Basic Shaders", nullptr, nullptr);
+	GLFWwindow* window = glfwCreateWindow(800, 600, "Vertex Shaders", nullptr, nullptr);
 
 	glfwMakeContextCurrent(window);
 
