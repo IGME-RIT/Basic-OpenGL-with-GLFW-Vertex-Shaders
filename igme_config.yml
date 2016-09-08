@@ -1,0 +1,15 @@
+series: Basic OpenGL with GLFW
+title: Vertex Shaders
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Transform vertices gpu side by sending matrices to the gpu.
+language: C++
+tags:
+  - Graphics
+  - Optimization
+extra_resources:
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Intro to Shaders
